@@ -7,13 +7,14 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#E2C799"
     tools:context="com.example.vikasojha.quizbee.MainActivity"
     >
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="QuizBee"
+        android:text="@string/quizapp"
         android:layout_marginTop="48dp"
         android:textSize="60dp"
         android:id="@+id/textView"
@@ -41,7 +42,7 @@
         android:inputType="textPersonName"
         android:ems="10"
         android:id="@+id/editName"
-        android:textColor="#df040b"
+        android:textColor="#0C0001"
         android:hint="Enter your name"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />

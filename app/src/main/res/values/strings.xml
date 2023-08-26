@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">QuizBee</string>
+    <string name="app_name">QuizApp</string>
     <string name="your_score">Your Score</string>
+    <string name="janhavi_rewdekar">Janhavi Rewdekar</string>
+    <string name="janhavi_gmail_com">janhavi@gmail.com</string>
+    <string name="quizapp">QuizApp</string>
 </resources>

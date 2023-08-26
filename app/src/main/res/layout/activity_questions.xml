@@ -7,6 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#EEE0C9"
     tools:context="com.example.vikasojha.quizbee.QuestionsActivity">
 
     <TextView
@@ -26,8 +27,8 @@
         android:layout_alignStart="@+id/DispName"
         android:id="@+id/answersgrp"
         android:clickable="true"
-        android:layout_centerVertical="true"
-        android:layout>
+        android:layout_centerVertical="true">
+        <!--android:layout-->
         <!--android:checkedButton="@+id/radioButton"-->
 
 
